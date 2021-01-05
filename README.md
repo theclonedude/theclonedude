@@ -1,8 +1,23 @@
 # theclonedude
 
-## TODO
+### What?
+
+I develop websites which offer almost all features that many huge web services offer. (not every feature is possible, e.g. which involve actual money)
+
+The source code for all the "clones" of the websites are public with a Licence that can be found in each of the individual repositories and is **GPL 3** if a LICENSE file is not found in a repository.
+
+> I might also develop the same websites with an alternate take or adding some improvements. The source code in this case will not be open.
+
+### Why?
+
+- Portfolio
+- Practice
+- Wanted to do this since a long time
+
+## Clones
 
 - [ ] [Youtube](https://www.youtube.com/)
+      [repo](https://github.com/theclonedude/video_project)
   - [ ] Recommendations
 - [ ] [Twitch](https://twitch.tv/)
   - [ ] Recommendations
@@ -27,7 +42,8 @@
 - [ ] [Tumblr](https://www.tumblr.com)
 - [ ] [Imgur](https://www.imgur.com)
 - [ ] [Instagram](https://instagram.com)
-- [ ] [Pinterest](https://pinterest.com.au/) or [in.pinterest](https://in.pinterest.com/)
+- [x] [Tiktok](https://tiktok.com/) _Banned because toxic so won't be implemented_
+- [ ] [Pinterest.au](https://pinterest.com.au/) or [in.pinterest](https://in.pinterest.com/)
   - [ ] Recommendations
 - [ ] [Deviantart](https://deviantart.com/)
 
@@ -41,3 +57,8 @@
 
 - [ ] [Amazon](https://www.amazon.com)
 - [ ] [Google search](https://www.google.com)
+
+## Alternative Takes
+
+- [ ] [Youtube](https://www.youtube.com)
+      [repo](https://github.com/theclonedude/video_share_platform)
